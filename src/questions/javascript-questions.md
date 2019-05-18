@@ -49,6 +49,7 @@ permalink: /questions/javascript-questions/index.html
 * What are the benefits of using `spread syntax` and how is it different from `rest syntax`?
 * How can you share code between files?
 * Why you might want to create static class members?
+* What is negative infinity?
 
 ## Coding questions
 * Make this work:
@@ -56,3 +57,4 @@ permalink: /questions/javascript-questions/index.html
 duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 ```
 * Create a for loop that iterates up to `100` while outputting **"fizz"** at multiples of `3`, **"buzz"** at multiples of `5` and **"fizzbuzz"** at multiples of `3` and `5`
+
